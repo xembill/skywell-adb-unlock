@@ -4,6 +4,22 @@
 
 ---
 
+> ### ⚠️ SORUMLULUK REDDİ BEYANI
+>
+> Bu repo'da yer alan tüm araçlar, komutlar, scriptler ve belgeler **yalnızca eğitim ve araştırma amaçlıdır.**
+>
+> Bu araçları kullanan kişiler, aşağıdaki hususları **açıkça kabul etmiş sayılır:**
+>
+> - Araçların kullanımı **tamamen kullanıcının kendi sorumluluğundadır.**
+> - Bu komutların uygulanması sonucunda araçta, head unit'te, T-Box'ta veya bağlı herhangi bir sistemde oluşabilecek **yazılım hatası, donanım arızası, garanti iptali, veri kaybı veya beklenmedik davranışlar** dahil olmak üzere **hiçbir olumsuz sonuçtan** Seçkin Kılınç (XemBiLL) sorumlu tutulamaz.
+> - Araç üreticisinin yazılımına müdahale etmek **garanti koşullarınızı geçersiz kılabilir.**
+> - Root erişimi ve ADB komutları yanlış kullanıldığında aracın elektronik sistemlerine **kalıcı zarar verebilir.**
+> - Bu araçları **üretici izni olmayan bir araç üzerinde** kullanmak, bulunduğunuz ülkenin yasalarına aykırı olabilir. Yasal uyumluluktan kullanıcı sorumludur.
+>
+> **Devam ederek bu koşulları okuduğunuzu, anladığınızı ve kabul ettiğinizi beyan etmiş olursunuz.**
+
+---
+
 ## 1. sys.special.func Bypass
 
 ### Keşif Süreci
